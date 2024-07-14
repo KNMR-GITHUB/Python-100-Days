@@ -3,5 +3,5 @@
 
 # the 'x' is a variable
 
-x = input("who art thou ?")
+x = input("who art thou ?\n")
 print(x)
